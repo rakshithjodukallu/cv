@@ -1,23 +1,13 @@
 body{
+    margin: 0;
     background-color: #EAF6F6;
-  }
-  hr{
-  
-    border-style:none;
-    border-top-style: dotted;
-    border-color: rgb(196, 190, 190);
-    border-width: 5px;
-    width: 3%;
-  }
-  img{
-   height: 150px;
-    width: 150px;
-  }
+    padding: 0px;
+}
 
-  h1{
-    color: #66bfbf;
-  }
+p{
+    display: inline-block;
+    width: 200px;
+    padding: 5px;
+    background-color: lightblue;
+}
 
-  h3{
-    color: #66bfbf;
-  }
